@@ -1,4 +1,8 @@
 {
-    "username":"bmahlbrand",
-    "password":"vjfcbclqslangayl"
+    "username": "",
+    "password": "",
+    "server": "smtp.sendgrid.net",
+    "port": "587",
+    "sender": "",
+    "recipient": ""
 }
